@@ -26,5 +26,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/onepush-dev/hob:1.5.0-r2
+            ghcr.io/onepush-dev/hob:1.5.0-r3
           platforms: linux/amd64
